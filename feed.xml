@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Articles of Andrea</title>
+    <link href="https://aergithub.github.io/publiisite/feed.xml" rel="self" />
+    <link href="https://aergithub.github.io/publiisite" />
+    <updated>2021-10-13T10:38:43-07:00</updated>
+    <author>
+        <name>Andrea Robinson</name>
+    </author>
+    <id>https://aergithub.github.io/publiisite</id>
+
+    <entry>
+        <title>Articles of Andrea</title>
+        <author>
+            <name>Andrea Robinson</name>
+        </author>
+        <link href="https://aergithub.github.io/publiisite/articles-of-andrea.html"/>
+        <id>https://aergithub.github.io/publiisite/articles-of-andrea.html</id>
+
+        <updated>2021-10-13T10:38:43-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Look at this video about digital storytelling Click on this cool visualization the professor made about digital storytelling with Voyant 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Look at this video about digital storytelling</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JIix-yVzheM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Click on this cool visualization the professor made about digital storytelling with <a href="https://voyant-tools.org/" target="_blank" rel="noopener noreferrer">Voyant</a></p>
+<iframe loading="lazy" style="width: 912px; height: 439px;" src="https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc"></iframe>
+            ]]>
+        </content>
+    </entry>
+</feed>
